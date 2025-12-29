@@ -3,7 +3,7 @@
 ! Description: List composed of several filters and simplified specifically to be better compatible with DNS-level ad blocking
 ! Version: 1.0
 ! Homepage: https://github.com/rsecbr/adguardTeam/AdguardSDNSFilter
-! Last modified: 2025-11-10T09:55:00
+! Last modified: 2025-12-29T14:45:00
 !
 ||geolocation.onetrust.com^
 ||help.nflxext.com/helpcenter^
